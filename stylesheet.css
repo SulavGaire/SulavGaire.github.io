@@ -1,0 +1,115 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+p{
+  text-align: justify;
+}
+a {
+  color: #0554a3 !important;
+  text-decoration: none;
+}
+
+a:focus,
+a:hover {
+  color: #4ca932 !important;
+  text-decoration: none;
+}
+
+body,
+td,
+th,
+tr,
+p,
+a {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 14px
+}
+
+strong {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 14px;
+}
+
+heading {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+papertitle {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.project-container {
+  display: flex;
+  justify-content: space-between;
+  /* background-color: #f0f0f0; Background color for the container */
+  /* padding: 10px; */
+  margin-bottom: 10px;
+}
+
+name {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 32px;
+}
+
+.one {
+  width: 160px;
+  height: 160px;
+  position: relative;
+  padding-top: 5px;
+  /* margin: auto;
+  width: 40%; */
+  /* display: inline; */
+}
+
+.two {
+  width: 160px;
+  height: 160px;
+  position: absolute;
+  transition: opacity .2s ease-in-out;
+  -moz-transition: opacity .2s ease-in-out;
+  -webkit-transition: opacity .2s ease-in-out;
+}
+
+.fade {
+  transition: opacity .2s ease-in-out;
+  -moz-transition: opacity .2s ease-in-out;
+  -webkit-transition: opacity .2s ease-in-out;
+}
+
+span.highlight {
+  background-color: #ffffd0;
+}
+
+.side-image{
+  /* margin: auto;
+  display: block; */
+}
+
+body{
+  padding-left:10px;
+  padding-right:10px;
+}
+
+.wave {
+  animation-name: wave-animation;  /* Refers to the name of your @keyframes element below */
+  animation-duration: 1.5s;        /* Change to speed up or slow down */
+  animation-iteration-count: infinite;  /* Never stop waving :) */
+  transform-origin: 70% 70%;       /* Pivot around the bottom-left palm */
+  display: inline-block;
+}
+
+@keyframes wave-animation {
+    0% { transform: rotate( 0.0deg) }
+   10% { transform: rotate(14.0deg) }  /* The following five values can be played with to make the waving more or less extreme */
+   20% { transform: rotate(-8.0deg) }
+   30% { transform: rotate(14.0deg) }
+   40% { transform: rotate(-4.0deg) }
+   50% { transform: rotate(10.0deg) }
+   60% { transform: rotate( 0.0deg) }  /* Reset for the last half to pause */
+  100% { transform: rotate( 0.0deg) }
+}
+
+
