@@ -1,0 +1,255 @@
+{
+    "name": "Sulav Gaire",
+    "academicEmailScrambled": "pn.ude.crw@540ieb670sap",
+    "personalEmailScrambled": "moc.liamg@eriagvalus",
+    "about": {
+        "paragraph1": "Hi, I recently completed my Bachelor's degree in Electronics, Communication and Information Engineering from <a href=\"https://ioepas.edu.np/\" target=\"_blank\">Tribhuvan University, Institute of Engineering (IOE), Pashchimanchal Campus</a>, guided by <a href=\"https://scholar.google.com/citations?user=l2o0JaIAAAAJ&hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">Asst. Prof. Badri Raj Lamichhhane.</a>",
+        "paragraph2": "I've had the privilege to work as an Electronics Design Intern at <a href=\"https://orionspace.com.np/\" target=\"_blank\" rel=\"noopener noreferrer\">Orion Space Nepal</a>, collaborating with <a href=\"https://www.linkedin.com/in/gtenthapa/\" target=\"_blank\" rel=\"noopener noreferrer\">Er. Jiten Thapa</a> and <a href=\"https://www.linkedin.com/in/risherlock/\" target=\"_blank\" rel=\"noopener noreferrer\">Er. Rishav Mani Sharma</a>. Here, I researched LoRa-based sensor networks and designed educational satellites (<a href=\"https://www.instagram.com/p/Ck2YrQaooFD/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\" rel=\"noopener noreferrer\">CubeSats</a>), gaining expertise in satellite communication, LoRa, IoT, and PCB design. My Software Development Internship at <a href=\"https://www.codse.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Codse</a> focused on web development, using Next.js and React.js to build production-grade applications. 👨‍💻",
+        "paragraph3": "Feel free to review my <a href=\"data/Sulav_CV .pdf\" target=\"_blank\">resume</a> and contact me via email for collaborations or opportunities.",
+        "researchInterests": "My research interests lie at the intersection of Electronics, Machine Learning, and IoT."
+    },
+    "contactLinks": [
+        {
+            "text": "Resume",
+            "url": "data/Sulav_CV .pdf"
+        },
+        {
+            "text": "Github",
+            "url": "https://github.com/SulavGaire"
+        },
+        {
+            "text": "LinkedIn",
+            "url": "https://www.linkedin.com/in/sulav-gaire/"
+        },
+        {
+            "text": "Mail",
+            "url": "mailto:sulavgaire@gmail.com"
+        }
+    ],
+    "education": [
+        {
+            "logo": "images/IOELogo.png",
+            "degreeType": "Bachelors in",
+            "degreeName": "Electronics, Communication & Information Engineering",
+            "institution": "Tribhubhan University, IOE Pashchimanchal Campus",
+            "date": "Nov 2019 – April 2024",
+            "responsibilities": [
+                "Co-ordinated Robo-rookies, teaching PCB design and C programming.",
+                "Senior member of <a href=\"https://robotics.wrc.edu.np/\">Robotics Club WRC</a>.",
+                "Winner of WRC Explorator-V, WRC art competition, and Intersamaj presentation."
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "logo": "images/NAST.png",
+            "type": "Innovative Research Assistant",
+            "company": "Nepal Academy of Science and Technology (NAST)",
+            "location": "Khumaltar, Lalitpur, Nepal",
+            "duration": "Dec 2024 - Present",
+            "website": "https://nast.gov.np/",
+            "description": [
+                "Developing wireless sensor networks for early warning systems.",
+                "Researching tomato picking robots using robotic arms and imitation learning.",
+                "Handling electronics for projects like hydrogen fuel cells and GPS data loggers."
+            ]
+        },
+        {
+            "logo": "images/OrionLogo.png",
+            "type": "Electronics Design Intern",
+            "company": "ORION Space, Nepal",
+            "location": "Duwakot Mod, Bhaktapur",
+            "duration": "Feb 2022 - Aug 2022",
+            "website": "https://orionspace.com.np/",
+            "advisor": "Er. Jiten Thapa and Er. Rishav Mani Sharma",
+            "description": [
+                "Researched LoRa-based sensor networks in the UHF band.",
+                "Engineered educational satellites (CanSat, CUBEEK) for global space training programs (20+ countries).",
+                "Developed web application for real-time LoRa data monitoring.",
+                "Contributed to real-world IoT solutions like \"Jal.\""
+            ]
+        },
+        {
+            "logo": "images/Codse.png",
+            "type": "Software Engineering Internship",
+            "company": "Codse Pokhara, Nepal",
+            "duration": "Jan 2024 - Feb 2024",
+            "website": "https://www.codse.com/",
+            "team": "Web Application Development",
+            "description": [
+                "Developed user-facing features using Next.js and JavaScript.",
+                "Secured multi-user web application with TypeScript, JWT, & REST API authentication.",
+                "Participated in code reviews and used Git for version control.",
+                "Enhanced UX with React Query and multi-step forms."
+            ]
+        },
+        {
+            "logo": "images/RoboticsClub.jpg",
+            "type": "Robotics Club",
+            "company": "IOE, Pashchimanchal Campus",
+            "duration": "2022 - 2023",
+            "description": [
+                "Conducted training on PCB design and embedded programming (C++).",
+                "Worked on projects like micromouse, FPV drone, battlebot, robotic arm.",
+                "Represented the club in national events (NIDN, Locus, Mechtrix).",
+                "Event co-ordinator for Robo-Rookies, training freshers in mechatronics and robotics."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "image": "images/Enirwachan.png",
+            "title": "Electronic Voting System using Two-Factor Biometric Authentication",
+            "codeLink": "https://github.com/SulavGaire/e-Nirwachan",
+            "reportLink": "https://drive.google.com/file/d/1_L6sAD5mM8Wc3Ds21_4N3v_bS8Uf80e/view?usp=sharing",
+            "type": "Major Project",
+            "supervisor": "Badri Raj Lamichhhane",
+            "description": [
+                "Developed a web-based two-factor biometric authentication system for secure e-voting.",
+                "Utilized fingerprint for voter info and face verification for casting votes.",
+                "Implemented salted SHA256 hashing for voter registration data.",
+                "Evaluated with 50 participants, showing improved security and integrity."
+            ]
+        },
+        {
+            "image": "images/WeatherLoRa.gif",
+            "title": "High Altitude Weather Forecasting using LoRa and Machine Learning",
+            "codeLink": "https://github.com/SulavGaire/Weather-prediction",
+            "reportLink": "https://drive.google.com/file/d/1SSqlD_Ev02qF0LwNv46B2YetBYGswDDp/view?usp=sharing",
+            "type": "Minor Project",
+            "supervisor": "Laxmi Prasad Bastola",
+            "description": [
+                "Developed a low-cost, real-time weather forecasting system for high altitudes.",
+                "Integrated LoRa for cost-effective data transmission in remote areas.",
+                "Applied XGBoost for weather prediction from sensor data, addressing sparse data challenges."
+            ]
+        },
+        {
+            "image": "images/Deltaarm.gif",
+            "title": "Deep Learning for Waste Management (YOLO & Delta Arm)",
+            "codeLink": "https://github.com/sh7vashrestha/DeltaArm",
+            "paperLink": "https://drive.google.com/file/d/1PvdS5WY8ac6NjCUpLCrojfdkx2Fy1mNK/view?usp=sharing",
+            "awards": "1st/50 Project Expo | NebiFest 2024 winning project",
+            "description": [
+                "Built a robotic delta arm with YOLOv8 for waste classification into Biodegradable, Plastic, Paper, Metal.",
+                "Achieved high performance: Precision: 0.94118, Recall: 0.96622, mAP@50: 0.98252.",
+                "Enhances waste management through automated categorization."
+            ]
+        },
+        {
+            "image": "images/Cubeek.jpg",
+            "title": "CUBEEK - CubeSat Educational Kit",
+            "websiteLink": "https://picosatlab.com/cubeek/",
+            "codeLink": "https://github.com/orionspacenepal/cubeek-public",
+            "company": "Orion Space Nepal",
+            "description": [
+                "Designed, developed, and tested Cubeek, a 1U educational CubeSat kit (≤ 2 kg/unit).",
+                "Includes EPS, OBC, COM (LoRa-based), and Payload for basic sensor data.",
+                "Aimed at students for learning satellite construction."
+            ]
+        },
+        {
+            "image": "images/Cansat.webp",
+            "title": "EDUCAN - Educational CanSat",
+            "videoLink": "https://youtu.be/f9cxNIezXMI?si=dYsxaUBKs4MSVeze",
+            "codeLink": "https://github.com/orionspacenepal/EDUCAN_Software_Public/tree/main",
+            "myContributionLink": "https://github.com/SulavGaire/CanSat",
+            "company": "Orion Space Nepal",
+            "description": [
+                "Created a real-time data dashboard for EDUCAN using Node.js.",
+                "Redesigned the receiver-side PCB, reducing production costs.",
+                "Helps high school students learn satellite construction basics."
+            ]
+        },
+        {
+            "image": "images/Sajilo.png",
+            "title": "SAJILO AMBULANCE - with Triage Prediction",
+            "codeLink": "https://github.com/SulavGaire/Triage",
+            "awards": "Gritfeat AI Hackathon: AI for Health",
+            "description": [
+                "Uber-like app for ambulance services with triage prediction and hospital recommendations.",
+                "Predicts triage (SVM - 70.58% accuracy), disposition (RF - 72.05% accuracy), and length of stay (SVM - 86.76% accuracy) based on vital signs."
+            ]
+        },
+        {
+            "image": "images/Techenergy.gif",
+            "title": "Software Testing - TECHNERGY Hackathon",
+            "codeLink": "https://github.com/SulavGaire/SoftwareTesting",
+            "certificateLink": "https://www.linkedin.com/posts/sulav-gaire_technergy-gratitude-activity-7189595307133829120-vYle?utm_source=share&utm_medium=member_desktop",
+            "awards": "2nd Runner-up out of 20+ teams National-level hackathon",
+            "description": [
+                "Achieved 2nd Runner-up in a national hackathon by Hitachi Energy & Locus 2024.",
+                "Gained skills in manual & automated testing, CI/CD pipeline, networking, presentation, and documentation."
+            ]
+        }
+    ],
+    "honorsAndAwards": [
+        {
+            "title": "Poster Presenter - WiFi-HAR: Activity Detection Using Channel State Information",
+            "company": "International Conference on Science and Technology Information Management System: Practices and Experiences (Organized by NAST and NAM S&T CENTRE)",
+            "date": "2025",
+            "description": [
+                "Presented a poster on WiFi-HAR at the International Conference on Science and Technology Information Management System."
+            ],
+            "link": null
+        },
+        {
+            "title": "National 2nd Runner-up - TECHNERGY Hackathon",
+            "company": "Hitachi Energy & Locus 2024",
+            "date": "2024",
+            "description": [
+                "Recognized among top 3 out of 20+ national teams for software testing."
+            ],
+            "link": "https://www.linkedin.com/posts/sulav-gaire_technergy-gratitude-activity-7189595307133829120-vYle/"
+        },
+        {
+            "title": "1st Place - Project Expo (Delta Arm)",
+            "company": "NebiFest 2024, IOE WRC",
+            "date": "2024",
+            "description": [
+                "Ranked 1st among 50+ projects for developing a low-cost robotic arm with real-time control."
+            ],
+            "link": "https://drive.google.com/file/d/1PvdS5WY8ac6NjCUpLCrojfdkx2Fy1mNK/view"
+        },
+        {
+            "title": "Regional 2nd Place - Robo-Soccer",
+            "company": "CAN-INFOTECH Robotics Competition",
+            "date": "2021",
+            "description": [
+                "Achieved 2nd place in the regional Robo-Soccer competition."
+            ],
+            "link": null
+        }
+    ],
+    
+    "certifications": [
+        {
+            "title": "Machine Learning - Specialization",
+            "company": "DeepLearning.AI & Stanford University",
+            "link": "https://coursera.org/share/91734a6cd35fefd9c0a03d68a587138e",
+            "description": [
+                "Covered Supervised ML (Regression, Classification), Advanced Learning Algorithms, Unsupervised Learning, Recommenders, and Reinforcement Learning."
+            ]
+        },
+        {
+            "title": "MATLAB Onramp",
+            "company": "MathWorks",
+            "link": "https://matlabacademy.mathworks.com/progress/share/certificate.html?id=799038d9-899b-45b5-ba62-516c77587e8d&"
+        },
+        {
+            "title": "GIS Data Acquisition and Map Design",
+            "company": "University of Toronto",
+            "link": "https://coursera.org/share/b182f04c49b175d59d4f8f5a887310a1"
+        },
+        {
+            "title": "Front End Development Libraries",
+            "company": "freecodecamp",
+            "link": "https://www.freecodecamp.org/certification/fcc6a15c67f-cdac-400d-a75e-91e14185d4e1/front-end-development-libraries"
+        },
+        {
+            "title": "Front-End Web UI Frameworks and Tools: Bootstrap 4",
+            "company": "The Hong Kong University of Science and Technology",
+            "link": "https://coursera.org/share/8cfffeb36f878973c3132b45d3e12b67"
+        }
+    ]
+}
