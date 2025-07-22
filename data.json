@@ -3,11 +3,11 @@
     "academicEmailScrambled": "pn.ude.crw@540ieb670sap",
     "personalEmailScrambled": "moc.liamg@eriagvalus",
     "about": {
-        "paragraph1": "Hi, I recently completed my Bachelor's degree in Electronics, Communication and Information Engineering from <a href=\"https://ioepas.edu.np/\" target=\"_blank\">Tribhuvan University, Institute of Engineering (IOE), Pashchimanchal Campus</a>, guided by <a href=\"https://scholar.google.com/citations?user=l2o0JaIAAAAJ&hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">Asst. Prof. Badri Raj Lamichhhane.</a>",
-        "paragraph2": "I've had the privilege to work as an Electronics Design Intern at <a href=\"https://orionspace.com.np/\" target=\"_blank\" rel=\"noopener noreferrer\">Orion Space Nepal</a>, collaborating with <a href=\"https://www.linkedin.com/in/gtenthapa/\" target=\"_blank\" rel=\"noopener noreferrer\">Er. Jiten Thapa</a> and <a href=\"https://www.linkedin.com/in/risherlock/\" target=\"_blank\" rel=\"noopener noreferrer\">Er. Rishav Mani Sharma</a>. Here, I researched LoRa-based sensor networks and designed educational satellites (<a href=\"https://www.instagram.com/p/Ck2YrQaooFD/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\" target=\"_blank\" rel=\"noopener noreferrer\">CubeSats</a>), gaining expertise in satellite communication, LoRa, IoT, and PCB design. My Software Development Internship at <a href=\"https://www.codse.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Codse</a> focused on web development, using Next.js and React.js to build production-grade applications. 👨‍💻",
-        "paragraph3": "Feel free to review my <a href=\"data/Sulav_CV .pdf\" target=\"_blank\">resume</a> and contact me via email for collaborations or opportunities.",
-        "researchInterests": "My research interests lie at the intersection of Electronics, Machine Learning, and IoT."
-    },
+  "paragraph1": "I’m a recent graduate in Electronics, Communication, and Information Engineering from <a href=\"https://ioepas.edu.np/\" target=\"_blank\">Tribhuvan University, IOE, Pashchimanchal Campus</a>, with a strong foundation in embedded systems and signal processing.",
+  "paragraph2": "I’ve worked on satellite and IoT-based projects at <a href=\"https://orionspace.com.np/\" target=\"_blank\" rel=\"noopener noreferrer\">ORION Space Nepal</a> and am currently contributing to wireless sensor networks and robotics at <a href=\"https://nast.gov.np/\" target=\"_blank\" rel=\"noopener noreferrer\">NAST</a>. My experience spans LoRa communication, robotic automation, and Wi-Fi sensing, with additional expertise in full-stack web development.",
+  "paragraph3": "Feel free to check out my <a href=\"data/Sulav_CV .pdf\" target=\"_blank\">resume</a> or reach out via email for potential collaboration.",
+  "researchInterests": "My research interests include Electronics, Machine Learning, IoT, and Mobile Computing."
+},
     "contactLinks": [
         {
             "text": "Resume",
@@ -31,7 +31,7 @@
             "logo": "images/IOELogo.png",
             "degreeType": "Bachelors in",
             "degreeName": "Electronics, Communication & Information Engineering",
-            "institution": "Tribhubhan University, IOE Pashchimanchal Campus",
+            "institution": "Tribhuvan University, IOE Pashchimanchal Campus",
             "date": "Nov 2019 – April 2024",
             "responsibilities": [
                 "Co-ordinated Robo-rookies, teaching PCB design and C programming.",
@@ -67,20 +67,6 @@
                 "Engineered educational satellites (CanSat, CUBEEK) for global space training programs (20+ countries).",
                 "Developed web application for real-time LoRa data monitoring.",
                 "Contributed to real-world IoT solutions like \"Jal.\""
-            ]
-        },
-        {
-            "logo": "images/Codse.png",
-            "type": "Software Engineering Internship",
-            "company": "Codse Pokhara, Nepal",
-            "duration": "Jan 2024 - Feb 2024",
-            "website": "https://www.codse.com/",
-            "team": "Web Application Development",
-            "description": [
-                "Developed user-facing features using Next.js and JavaScript.",
-                "Secured multi-user web application with TypeScript, JWT, & REST API authentication.",
-                "Participated in code reviews and used Git for version control.",
-                "Enhanced UX with React Query and multi-step forms."
             ]
         },
         {
