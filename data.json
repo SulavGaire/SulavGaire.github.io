@@ -24,6 +24,10 @@
         {
             "text": "Mail",
             "url": "mailto:sulavgaire@gmail.com"
+        },
+        {
+            "text": "Google Scholar",
+            "url": "https://scholar.google.com/citations?user=lYSo4aUAAAAJ&hl=en"
         }
     ],
     "education": [
@@ -82,7 +86,60 @@
             ]
         }
     ],
-    "projects": [
+    "projects": [{
+            "image": "images/Staticsence.png",
+            "title": "StaticSense: Static Object Detection using Wi-Fi Channel State Information",
+            "codeLink": "https://github.com/SulavGaire/StaticSense/tree/main",
+            "reportLink": "https://github.com/SulavGaire/StaticSense/blob/main/StaticSense.pdf",
+            "type": "Personal Research",
+            "awards": "Under Review in ICTP 2026",
+            "supervisor": "",
+            "description": [
+    "Motivation: Past CSI sensing focused on dynamic activities, with static object detection still unsolved.",
+    "Novelty: A low-cost ESP32 SISO setup with CSI preprocessing isolates static object effects.",
+    "Result: ResNet18 achieves 98.27% accuracy, proving reliable static object detection using Wi-Fi CSI."
+]   
+        },
+        {
+            "image": "images/WeatherLoRa.gif",
+            "title": "High Altitude Weather Forecasting using LoRa and Machine Learning",
+            "codeLink": "https://github.com/SulavGaire/Weather-prediction",
+            "reportLink": "https://drive.google.com/file/d/1SSqlD_Ev02qF0LwNv46B2YetBYGswDDp/view?usp=sharing",
+            "type": "Minor Project",
+            "supervisor": "Laxmi Prasad Bastola",
+            "description": [
+                "Developed a low-cost, real-time weather forecasting system for high altitudes.",
+                "Integrated LoRa for cost-effective data transmission in remote areas.",
+                "Applied XGBoost for weather prediction from sensor data, addressing sparse data challenges."
+            ]
+        },
+
+        {
+            "image": "images/Deltaarm.gif",
+            "title": "Deep Learning for Waste Management (YOLO & Delta Arm)",
+            "codeLink": "https://github.com/sh7vashrestha/DeltaArm",
+            "paperLink": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lYSo4aUAAAAJ&citation_for_view=lYSo4aUAAAAJ:u5HHmVD_uO8C",
+            "awards": "15th IOE Graduate Conference, 2024",
+            "description": [
+                "Built a robotic delta arm with YOLOv8 for waste classification into Biodegradable, Plastic, Paper, Metal.",
+                "Achieved high performance: Precision: 0.94118, Recall: 0.96622, mAP@50: 0.98252.",
+                "Enhances waste management through automated categorization."
+            ]
+        },
+
+        {
+            "image": "images/Cansat.webp",
+            "title": "EDUCAN - Educational CanSat",
+            "videoLink": "https://youtu.be/f9cxNIezXMI?si=dYsxaUBKs4MSVeze",
+            "codeLink": "https://github.com/orionspacenepal/EDUCAN_Software_Public/tree/main",
+            "myContributionLink": "https://github.com/SulavGaire/CanSat",
+            "company": "Orion Space Nepal",
+            "description": [
+                "Created a real-time data dashboard for EDUCAN using Node.js.",
+                "Redesigned the receiver-side PCB, reducing production costs.",
+                "Helps high school students learn satellite construction basics."
+            ]
+        },
         {
             "image": "images/Enirwachan.png",
             "title": "Electronic Voting System using Two-Factor Biometric Authentication",
@@ -98,31 +155,6 @@
             ]
         },
         {
-            "image": "images/WeatherLoRa.gif",
-            "title": "High Altitude Weather Forecasting using LoRa and Machine Learning",
-            "codeLink": "https://github.com/SulavGaire/Weather-prediction",
-            "reportLink": "https://drive.google.com/file/d/1SSqlD_Ev02qF0LwNv46B2YetBYGswDDp/view?usp=sharing",
-            "type": "Minor Project",
-            "supervisor": "Laxmi Prasad Bastola",
-            "description": [
-                "Developed a low-cost, real-time weather forecasting system for high altitudes.",
-                "Integrated LoRa for cost-effective data transmission in remote areas.",
-                "Applied XGBoost for weather prediction from sensor data, addressing sparse data challenges."
-            ]
-        },
-        {
-            "image": "images/Deltaarm.gif",
-            "title": "Deep Learning for Waste Management (YOLO & Delta Arm)",
-            "codeLink": "https://github.com/sh7vashrestha/DeltaArm",
-            "paperLink": "https://drive.google.com/file/d/1PvdS5WY8ac6NjCUpLCrojfdkx2Fy1mNK/view?usp=sharing",
-            "awards": "1st/50 Project Expo | NebiFest 2024 winning project",
-            "description": [
-                "Built a robotic delta arm with YOLOv8 for waste classification into Biodegradable, Plastic, Paper, Metal.",
-                "Achieved high performance: Precision: 0.94118, Recall: 0.96622, mAP@50: 0.98252.",
-                "Enhances waste management through automated categorization."
-            ]
-        },
-        {
             "image": "images/Cubeek.jpg",
             "title": "CUBEEK - CubeSat Educational Kit",
             "websiteLink": "https://picosatlab.com/cubeek/",
@@ -132,19 +164,6 @@
                 "Designed, developed, and tested Cubeek, a 1U educational CubeSat kit (≤ 2 kg/unit).",
                 "Includes EPS, OBC, COM (LoRa-based), and Payload for basic sensor data.",
                 "Aimed at students for learning satellite construction."
-            ]
-        },
-        {
-            "image": "images/Cansat.webp",
-            "title": "EDUCAN - Educational CanSat",
-            "videoLink": "https://youtu.be/f9cxNIezXMI?si=dYsxaUBKs4MSVeze",
-            "codeLink": "https://github.com/orionspacenepal/EDUCAN_Software_Public/tree/main",
-            "myContributionLink": "https://github.com/SulavGaire/CanSat",
-            "company": "Orion Space Nepal",
-            "description": [
-                "Created a real-time data dashboard for EDUCAN using Node.js.",
-                "Redesigned the receiver-side PCB, reducing production costs.",
-                "Helps high school students learn satellite construction basics."
             ]
         },
         {
