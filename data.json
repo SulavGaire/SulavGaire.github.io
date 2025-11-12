@@ -3,11 +3,11 @@
     "academicEmailScrambled": "pn.ude.crw@540ieb670sap",
     "personalEmailScrambled": "moc.liamg@eriagvalus",
     "about": {
-  "paragraph1": "I’m a recent graduate in Electronics, Communication, and Information Engineering from <a href=\"https://ioepas.edu.np/\" target=\"_blank\">Tribhuvan University, IOE, Pashchimanchal Campus</a>, with a strong foundation in embedded systems and signal processing.",
-  "paragraph2": "I’ve worked on satellite and IoT-based projects at <a href=\"https://orionspace.com.np/\" target=\"_blank\" rel=\"noopener noreferrer\">ORION Space Nepal</a> and am currently contributing to wireless sensor networks and robotics at <a href=\"https://nast.gov.np/\" target=\"_blank\" rel=\"noopener noreferrer\">NAST</a>. My experience spans LoRa communication, robotic automation, and Wi-Fi sensing, with additional expertise in full-stack web development.",
-  "paragraph3": "Feel free to check out my <a href=\"data/Sulav_CV .pdf\" target=\"_blank\">resume</a> or reach out via email for potential collaboration.",
-  "researchInterests": "My research interests include Electronics, Machine Learning, IoT, and Mobile Computing."
-},
+        "paragraph1": "I’m a recent graduate in Electronics, Communication, and Information Engineering from <a href=\"https://ioepas.edu.np/\" target=\"_blank\">Tribhuvan University, IOE, Pashchimanchal Campus</a>, with a strong foundation in embedded systems and signal processing.",
+        "paragraph2": "I’ve worked on satellite and IoT-based projects at <a href=\"https://orionspace.com.np/\" target=\"_blank\" rel=\"noopener noreferrer\">ORION Space Nepal</a> and am currently contributing to wireless sensor networks and robotics at <a href=\"https://nast.gov.np/\" target=\"_blank\" rel=\"noopener noreferrer\">NAST</a>. My experience spans LoRa communication, robotic automation, and Wi-Fi sensing, with additional expertise in full-stack web development.",
+        "paragraph3": "Feel free to check out my <a href=\"data/Sulav_CV .pdf\" target=\"_blank\">resume</a> or reach out via email for potential collaboration.",
+        "researchInterests": "My research interests include Electronics, Machine Learning, IoT, and Mobile Computing."
+    },
     "contactLinks": [
         {
             "text": "Resume",
@@ -86,7 +86,8 @@
             ]
         }
     ],
-    "projects": [{
+    "projects": [
+        {
             "image": "images/Staticsence.png",
             "title": "StaticSense: Static Object Detection using Wi-Fi Channel State Information",
             "codeLink": "https://github.com/SulavGaire/StaticSense/tree/main",
@@ -95,10 +96,10 @@
             "awards": "Under Review in ICTP 2026",
             "supervisor": "",
             "description": [
-    "Motivation: Past CSI sensing focused on dynamic activities, with static object detection still unsolved.",
-    "Novelty: A low-cost ESP32 SISO setup with CSI preprocessing isolates static object effects.",
-    "Result: ResNet18 achieves 98.27% accuracy, proving reliable static object detection using Wi-Fi CSI."
-]   
+                "Motivation: Past CSI sensing focused on dynamic activities, with static object detection still unsolved.",
+                "Novelty: A low-cost ESP32 SISO setup with CSI preprocessing isolates static object effects.",
+                "Result: ResNet18 achieves 98.27% accuracy, proving reliable static object detection using Wi-Fi CSI."
+            ]
         },
         {
             "image": "images/WeatherLoRa.gif",
@@ -113,7 +114,6 @@
                 "Applied XGBoost for weather prediction from sensor data, addressing sparse data challenges."
             ]
         },
-
         {
             "image": "images/Deltaarm.gif",
             "title": "Deep Learning for Waste Management (YOLO & Delta Arm)",
@@ -126,7 +126,6 @@
                 "Enhances waste management through automated categorization."
             ]
         },
-
         {
             "image": "images/Cansat.webp",
             "title": "EDUCAN - Educational CanSat",
@@ -226,7 +225,6 @@
             "link": null
         }
     ],
-    
     "certifications": [
         {
             "title": "Machine Learning - Specialization",
