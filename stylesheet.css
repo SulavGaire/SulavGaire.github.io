@@ -1,10 +1,10 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&display=swap');
 p{
   text-align: justify;
 }
 a {
-  color: #0554a3 !important;
+  color: #316e61 !important;
   text-decoration: none;
 }
 
@@ -20,24 +20,24 @@ th,
 tr,
 p,
 a {
-  font-family: 'Titillium Web', sans-serif;
-  font-size: 14px
+  font-family: 'Crimson Pro', sans-serif;
+  font-size: 16px
 }
 
 strong {
-  font-family: 'Titillium Web', sans-serif;
-  font-size: 14px;
+  font-family: 'Crimson Pro', sans-serif;
+  font-size: 16px;
 }
 
 heading {
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Crimson Pro', sans-serif;
   font-size: 22px;
   font-weight: 700;
 }
 
 papertitle {
-  font-family: 'Titillium Web', sans-serif;
-  font-size: 18px;
+  font-family: 'Crimson Pro', sans-serif;
+  font-size: 16px;
   font-weight: 700;
 }
 
@@ -50,8 +50,8 @@ papertitle {
 }
 
 name {
-  font-family: 'Titillium Web', sans-serif;
-  font-size: 32px;
+  font-family: 'Crimson Pro', sans-serif;
+  font-size: 30px;
 }
 
 .one {
@@ -111,5 +111,10 @@ body{
    60% { transform: rotate( 0.0deg) }  /* Reset for the last half to pause */
   100% { transform: rotate( 0.0deg) }
 }
+
+.bg_colour {
+    background-color: hsl(48deg 33.33% 97.06%); /* Replace with your desired hex, rgb, or color name */
+}
+
 
 
