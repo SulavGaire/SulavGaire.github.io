@@ -92,8 +92,8 @@
             "title": "StaticSense: Static Object Detection using Wi-Fi Channel State Information",
             "codeLink": "https://github.com/SulavGaire/StaticSense/tree/main",
             "reportLink": "https://github.com/SulavGaire/StaticSense/blob/main/StaticSense.pdf",
-            "type": "Personal Research",
-            "awards": "Under Review in ICTP 2026",
+            "type": "Personal Research, Wireless Sensing",
+            "awards": "Accepted at IEEE International Conference on ICT and Photonics (ICTP) 2026",
             "supervisor": "",
             "description": [
                 "Motivation: Past CSI sensing focused on dynamic activities, with static object detection still unsolved.",
