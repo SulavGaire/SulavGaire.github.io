@@ -198,7 +198,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 const row = document.createElement('tr');
                 row.innerHTML = `
                     <td style="padding:5px;width:100%;vertical-align:middle">
-                        <p>No publications added yet. Check back later!</p>
+                        <p>Still learning and researching. You can check me google scholar for the recent list</p>
                     </td>
                 `;
                 publicationsTable.appendChild(row);
