@@ -92,6 +92,7 @@
             "title": "StaticSense: Static Object Detection using Wi-Fi Channel State Information",
             "codeLink": "https://github.com/SulavGaire/StaticSense/tree/main",
             "reportLink": "https://github.com/SulavGaire/StaticSense/blob/main/StaticSense.pdf",
+            "paperLink": "https://ieeexplore.ieee.org/document/11485253",
             "type": "Personal Research, Wireless Sensing",
             "awards": "Accepted at IEEE International Conference on ICT and Photonics (ICTP) 2026",
             "supervisor": "",
@@ -143,7 +144,7 @@
             "image": "images/Enirwachan.png",
             "title": "Electronic Voting System using Two-Factor Biometric Authentication",
             "codeLink": "https://github.com/SulavGaire/e-Nirwachan",
-            "reportLink": "https://drive.google.com/file/d/1_L6sAD5mM8Wc3Ds21_4N3v_bS8Uf80e/view?usp=sharing",
+            "reportLink": "https://drive.google.com/file/d/1_L6sAD5mM8W0c3Ds21_4N3v_bS8Uf80e/view?usp=sharing",
             "type": "Major Project",
             "supervisor": "Badri Raj Lamichhhane",
             "description": [
